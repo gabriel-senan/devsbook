@@ -20,9 +20,9 @@ body {
 }
 
 header {
-    background-color: #4a76a8;
+    background-color: #EC1B90;
     height: 45px;
-    box-shadow: 0px 0px 4px #333;
+    box-shadow: 0px 0px 1px #333;
     position: relative;
     z-index: 99;
 }
@@ -45,7 +45,7 @@ header a {
 form {
     max-width: 400px;
     margin: auto;
-    background-color: #FFF;
+    background-color: #D4DDED;
     border: 1px solid #c9cacc;
     border-radius: 5px;
     padding: 20px;
@@ -66,30 +66,30 @@ form .input {
     width: 100%;
     outline: 0;
     border: 0;
-    background-color: #EEE;
+    background-color: #ffffff;
     border-radius: 10px;
     padding: 15px;
     margin-bottom: 10px;
 }
 
 form .input:focus {
-    background-color: #DDD;
+    background-color: #ffffff;
 }
 
 form .button {
     border: 0;
     padding: 10px 20px;
-    background-color: #4a76a8;
+    background-color: #ffffff;
     border-radius: 10px;
-    color: #FFF;
+    color: #757575;
     font-size: 15px;
     margin-bottom: 10px;
     cursor: pointer;
-    box-shadow: 0px 0px 3px #999;
+    box-shadow: 0px 0px 1px #999;
 }
 
 form .button:hover {
-    background-color: #477dbb;
+    background-color: #C3C4C9;
 }
 
 form a {
